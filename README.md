@@ -14,7 +14,9 @@ Now includes a beautiful **Streamlit web interface** with the following capabili
 
 ---
 
-## 👨‍💻 Designed By: [Moh Technology](https://www.youtube.com/@mohtechnology)
+## 👨‍💻 Designed By: [Nitin Sen]www.linkedin.com/in/
+nitin-sen-972a7130a
+
 
 ---
 
@@ -33,8 +35,8 @@ Now includes a beautiful **Streamlit web interface** with the following capabili
 
 ### 1. 📥 Clone or Download
 ```bash
-git clone https://github.com/mohtechnology/RGPV-Result.git
-cd rgpv-result-fetcher
+git clone https://github.com/Nitinsen001/result_finder.git
+cd result_finder
 ````
 
 ### 2. 📦 Install Python Requirements
@@ -114,10 +116,10 @@ streamlit run app.py
 2. Run the script:
 
 ```bash
-python nitin.py
+python app.py
 ```
 
-3. Results will be saved in `RGPV_Result.xlsx`.
+3. Results will be saved in `RGPV_Result.xlsx` it also support 'csv,json,txt'.
 
 ---
 
@@ -149,8 +151,8 @@ The Excel sheet will look like:
 
 | S.No | Enrollment | Name         | Semester | BT101 | BT102 | ... | SGPA | CGPA | Result              |
 | ---- | ---------- | ------------ | -------- | ----- | ----- | --- | ---- | ---- | ------------------- |
-| 1    | 0805CS2410 | XYZ          | 1        | C     | C     | ... | 5.57 | 5.57 | Fail in BT104,BT105 |
-| 2    | 0805CS2411 |              |          | 0     | 0     | ... | 0    | 0    |                     |
+| 1    | 0403AL2310 | XYZ          | 1        | C     | C     | ... | 5.57 | 5.57 | Fail in BT104,BT105 |
+| 2    | 0403AL2310 |              |          | 0     | 0     | ... | 0    | 0    |                     |
 
 ---
 
